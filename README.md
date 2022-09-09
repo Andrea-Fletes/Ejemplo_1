@@ -1,5 +1,5 @@
 # Ejemplo_1
 ```
-Andrea Ejercicio chido
+Andrea "Exercise chido"
 ```
 `npm start`
