@@ -1,7 +1,7 @@
 # Ejemplo_1
 
 ```
-Ejercicio 1 por Ismac
+Project 'Ejercicio_1' readme file description
 ```
 
 `npm start`
